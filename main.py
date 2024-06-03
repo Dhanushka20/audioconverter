@@ -130,3 +130,5 @@ language_menu.pack(pady=10)
 
 # Run the main loop
 root.mainloop()
+
+
